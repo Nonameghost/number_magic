@@ -12,7 +12,7 @@ Now this was just a hypothetical situation, but it serves to highlight the impor
 
 Now get out there and do some numbers before we all die from the inevitable environmental disasters that await us.
 
---
+---------------------------
 
 ### Usage
 
@@ -36,7 +36,7 @@ If you're a real moron and mess something up, it's OK. Thankfully the computer s
 
 If you crash this program I will sue you.
 
---
+---------------------
 
 ### About
 
